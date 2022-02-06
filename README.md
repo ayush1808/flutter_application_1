@@ -1,6 +1,9 @@
-# flutter_application_1
+This is a cross platform shopping application built on flutter. 
+It can work on WEB, ANROID AND IOS.
+I am attaching few screenshot of web version.
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/56379689/152686775-efb80290-d9c7-4221-bb26-b1d1fd21300d.png)
+
 
 ## Getting Started
 
